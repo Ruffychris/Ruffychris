@@ -3,7 +3,7 @@
 I am an aspiring Fullstack developer and Software Engineer, driven by a passion for solving real-world problems and building intuitive, user-friendly applications that make everyday life simpler. My ultimate goal is to help make technology more inclusive and accessible to all.
 
 
-![<Ruffychris>'s Stats](https://github-readme-stats.vercel.app/api?Ruffychris=<Ruffychris>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?Ruffychris=<Ruffychris>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
