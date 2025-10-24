@@ -27,7 +27,7 @@ I am an aspiring Fullstack developer and Software Engineer, driven by a passion 
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/rufus-christian-150b80326)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rufus-christian-150b80326/)
   
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
